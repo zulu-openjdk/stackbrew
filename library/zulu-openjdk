@@ -14,5 +14,7 @@
 8u05-8.1.0.6 git://github.com/zulu-openjdk/zulu-openjdk@1.1 8u05-8.1.0.6
 8u11-8.2.0.1 git://github.com/zulu-openjdk/zulu-openjdk@1.1 8u11-8.2.0.1
 8u11         git://github.com/zulu-openjdk/zulu-openjdk@1.1 8u11-8.2.0.1
+8u20-8.3.0.1 git://github.com/zulu-openjdk/zulu-openjdk@1.1 8u11-8.3.0.1
+8u20         git://github.com/zulu-openjdk/zulu-openjdk@1.1 8u11-8.3.0.1
 
 latest       git://github.com/zulu-openjdk/zulu-openjdk@1.1 8-latest
